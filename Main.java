@@ -67,7 +67,7 @@ public class Main {
         // Example usage
         SavingsAccount savingsAccount = new SavingsAccount(1000);
         savingsAccount.deposit(500);
-        savingsAccount.withdraw(2000);
+        savingsAccount.withdraw(3000);
 
         CurrentAccount currentAccount = new CurrentAccount(2000, 1000);
         currentAccount.withdraw(3000);
